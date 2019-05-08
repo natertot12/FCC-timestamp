@@ -1,16 +1,8 @@
+Timestamp Microservice created for a challenge from FreeCodeCamp.com
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice/
 
-
-Welcome to your Node.js project on Cloud9 IDE!
-
-This chat example showcases how to use `socket.io` with a static `express` server.
-
+This was made with Cloud9 (c9.io) and Node.js.
 ## Running the server
 
 1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
